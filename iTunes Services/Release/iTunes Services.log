@@ -1,0 +1,14 @@
+﻿Build started 7/19/2013 12:48:31 PM.
+     1>Project "C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\iTunes Services\iTunes Services.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\Release\iTunes Services.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\Release\iTunes Services.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\Release\iTunes Services.lib" /MACHINE:X86 /SAFESEH "Release\iTunes Services.res"
+         "Release\iTunes Services.obj"
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         iTunes Services.vcxproj -> C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\Release\iTunes Services.exe
+     1>Done Building Project "C:\Users\Spencer\documents\visual studio 2013\Projects\iTunes Services\iTunes Services\iTunes Services.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
